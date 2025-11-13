@@ -937,6 +937,6 @@ public class Shizuku {
 
     @RestrictTo(LIBRARY_GROUP_PREFIX)
     public static int getServerPatchVersion() {
-        return serverPatchVersion;
+        return serverPatchVersion; 
     }
 }
